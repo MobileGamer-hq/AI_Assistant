@@ -1,6 +1,7 @@
 
 
-class SOFIE:
+class   Assistant:
+    name = "nebula"
     starting_message = ""
     def __init__(self) -> None:
         pass
